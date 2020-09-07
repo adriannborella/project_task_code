@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_project_task_code_project_task_code,project_task_code.project_task_code,model_project_task_code_project_task_code,,1,0,0,0
